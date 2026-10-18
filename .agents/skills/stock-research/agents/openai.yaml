@@ -1,0 +1,5 @@
+interface:
+  display_name: "个股深度研究与投资前检查"
+  short_description: "研究 A 股、港股和美股公司，逐题检查投资风险并补查关键未知项"
+policy:
+  allow_implicit_invocation: true
